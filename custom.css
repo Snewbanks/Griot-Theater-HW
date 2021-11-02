@@ -1,0 +1,15 @@
+.nav-bar {
+    color: black;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.grid-container {
+    display: grid;
+    grid-column-gap: 20px;
+}
